@@ -1,2 +1,2 @@
-# gobase
+# GoBase
 Base for Go HTTP API
